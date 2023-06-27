@@ -1,0 +1,8 @@
+{
+    "version":3,
+    "file":"compiled.js",
+    "names":["name","myFucn","console","log","concat"],
+    "sources":["index.js"],
+    "sourcesContent":["const name = \"Gabri\";\nconst myFucn = () => console.log(`hello ${name}`);\n"],
+    "mappings":"AAAA,MAAMA,IAAI,GAAG,OAAO;AACpB,MAAMC,MAAM,GAAG,SAAAA,CAAA;EAAA,OAAMC,OAAO,CAACC,GAAG,UAAAC,MAAA,CAAUJ,IAAI,CAAE,CAAC;AAAA"
+}
